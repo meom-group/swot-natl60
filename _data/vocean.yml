@@ -19,6 +19,14 @@
   pic: boxes.jpeg
   description: ""
 
-- name: Test
+- name: Test1
   pic:
   description: Text without picture
+
+- name: No text
+  pic: boxes.jpeg
+  description: 
+
+- name: 
+  pic: boxes.jpeg
+  description: Text without title

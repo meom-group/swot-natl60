@@ -1,0 +1,3 @@
+- name: A virtual ocean
+  pic: north-atlantic.jpeg
+  description: "NATL60 is a first experiment aiming at modeling the ocean at a kilometric resolution in a realistic context (opposed to idealized) for a domain that encompasses a whole basin (North Atlantic)"

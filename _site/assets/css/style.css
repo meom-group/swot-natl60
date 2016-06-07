@@ -317,6 +317,26 @@
 			}
 
 /* Lists */
+.list {
+  &-post-title {
+    margin-bottom: 0.25rem;
+
+    a {
+      color: #333;
+
+      &:hover,
+      &:focus {
+        text-decoration: none;
+      }
+    }
+  }
+  &-post-date {
+    margin-bottom: 2rem;
+    font-size: .75rem;
+    text-transform: uppercase;
+  }
+}
+
 
 	ol.default {
 		list-style: decimal;
@@ -741,6 +761,49 @@
 					}
 
 			#banner header .button {
+				vertical-align: middle;
+				margin-left: 1em;
+			}
+#sbanner {
+		background-image: url("../images/NATL60-MJM155_y2008m03d15.1d_CURLOVERF.jpg");
+		background-position: center center;
+		background-size: cover;
+		height: 5em;
+		text-align: center;
+		position: relative;
+	}
+
+		#sbanner header {
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			width: 100%;
+			background: #212121;
+			background: rgba(27, 27, 27, 0.75);
+			color: #fff;
+			padding: 1.5em 0;
+		}
+
+			#sbanner header h2 {
+				display: inline-block;
+				margin: 0;
+				font-size: 1.25em;
+				vertical-align: middle;
+			}
+
+				#sbanner header h2 em {
+					opacity: 0.75;
+				}
+
+				#sbanner header h2 a {
+					border-bottom-color: rgba(255, 255, 255, 0.5);
+				}
+
+					#sbanner header h2 a:hover {
+						border-bottom-color: transparent;
+					}
+
+			#sbanner header .button {
 				vertical-align: middle;
 				margin-left: 1em;
 			}

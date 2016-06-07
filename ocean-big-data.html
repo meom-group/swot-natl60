@@ -4,16 +4,30 @@ layout: default
 ---
 	
 <!-- Main -->
+    <section class="wrapper style1">
+        <div class="container">
+        	<div id="content">
+                    <h2>Ocean Big Data</h2>
+                    <h3> <em> Dealing with biger and biger data</em> </h3>
+            </div>
+        </div>
+    </section>
+
+   
+
+   {% for topic in site.data.obigdata %}
 	<section class="wrapper style1">
 		<div class="container">
 			<div id="content">
 				<div class="row">
 					<section class="12u">
 						<div class="box post">
-							<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/swot-sat.jpeg" alt=""></a>
+							<div class="image left">
+								<img src="{{ site.baseurl }}/assets/images/{{ topic.pic }}" alt="">
+							</div>
 								<div class="inner">
-									<h3>SWOT the mission</h3>
-									 
+									<h3>{{ topic.name }}</h3>
+									{{ topic.description }}
 								</div>
 						</div>
 
@@ -21,4 +35,5 @@ layout: default
 				</div>
 			</div>
 		</div>
-	</section>		
+	</section>	
+	{% endfor %}
