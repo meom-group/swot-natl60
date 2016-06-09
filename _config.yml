@@ -2,5 +2,5 @@ name: NATL60
 description: Description of NATL60 simulations
 gems: [jekyll-paginate]
 paginate: 10
-baseurl: '/swot-natl60/'
+baseurl: '/swot-natl60'
 url: 'http://meom-group.github.io'
