@@ -1,32 +1,9 @@
-- name: A virtual ocean
+- name: 
   pic: north-atlantic.jpeg
-  description: "NATL60 is a first experiment aiming at modeling the ocean at a kilometric resolution in a realistic context (opposed to idealized) for a domain that encompasses a whole basin (North Atlantic)"
+  description: "NATL60 is an innovative experiment aiming at modelling the ocean down to kilometric resolution as realistically as possible. The model grid (vertical and horizontal) and model parameters have been chosen in order to explicitely simulates ocean submesoscale in the Naorth Atlantic."
 
-- name: The grid
+- name: 
   pic: grid-Brest.jpeg
   description: "The domain is bounded in the South by the 26.5° parallel, and by roughly the arctic polar circle in the North. The resolution is of 1/60° at the equator. In ORCA configuration, the size of the mesh is reduced with the cosinus of latitude, therefore horizontal resolution varies from 1600m at the southern boundary to 900m the nothermost part of the domain.
                    In order to correctly represent internal waves, it is imperative to have a high vertical resolution of 300 levels. At the surface the resolution is of 1m and of 50m in the deepest regions."
 
-- name: The forcings
-  pic: forcings.png
-  description: "The initial and open boundary conditions are taken from the GLORYS2-V3 reanalysis provided by Mercator Océan. At the ocean-atmosphere interface the Drakkar DFS5.2 based on ERA-interim has been used."
-
-- name: The model and parameterization
-  pic: NEMO-website.png
-  description: "The 3.5beta version of NEMO has been used in combination with the XIOS 1.0 I/O server"
-
-- name: Specific regions
-  pic: boxes.jpeg
-  description: ""
-
-- name: Test1
-  pic:
-  description: Text without picture
-
-- name: No text
-  pic: boxes.jpeg
-  description: 
-
-- name: 
-  pic: boxes.jpeg
-  description: Text without title

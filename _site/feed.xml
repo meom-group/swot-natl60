@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Description of NATL60 simulations</description>
-    <link>http://meom-group.github.io/swot-natl60//</link>
-    <atom:link href="http://meom-group.github.io/swot-natl60//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Jun 2016 16:58:19 +0200</pubDate>
-    <lastBuildDate>Thu, 09 Jun 2016 16:58:19 +0200</lastBuildDate>
+    <link>http://meom-group.github.io/swot-natl60/</link>
+    <atom:link href="http://meom-group.github.io/swot-natl60/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 10 Jun 2016 16:49:28 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Jun 2016 16:49:28 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;This is a website where you will find informations on the simulations NATL60 produced by the MEOM team of the LGGE lab. &lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://meom-group.github.io/swot-natl60//2016/06/06/lauching-of-website.html</link>
-        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60//2016/06/06/lauching-of-website.html</guid>
+        <link>http://meom-group.github.io/swot-natl60/2016/06/06/lauching-of-website.html</link>
+        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2016/06/06/lauching-of-website.html</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>&lt;p&gt;The production of the second run is beginning on Curie. &lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-        <link>http://meom-group.github.io/swot-natl60//2016/04/20/production-second-run.html</link>
-        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60//2016/04/20/production-second-run.html</guid>
+        <link>http://meom-group.github.io/swot-natl60/2016/04/20/production-second-run.html</link>
+        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2016/04/20/production-second-run.html</guid>
         
         
       </item>
@@ -36,8 +36,8 @@
         <description>&lt;p&gt;Now we can have a look at the output. &lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2015 00:00:00 +0100</pubDate>
-        <link>http://meom-group.github.io/swot-natl60//2015/03/10/first-run-available.html</link>
-        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60//2015/03/10/first-run-available.html</guid>
+        <link>http://meom-group.github.io/swot-natl60/2015/03/10/first-run-available.html</link>
+        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2015/03/10/first-run-available.html</guid>
         
         
       </item>
@@ -47,8 +47,8 @@
         <description>&lt;p&gt;Beginning of the production of the first NATL60 run&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://meom-group.github.io/swot-natl60//2014/12/01/occigen-grand-defi.html</link>
-        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60//2014/12/01/occigen-grand-defi.html</guid>
+        <link>http://meom-group.github.io/swot-natl60/2014/12/01/occigen-grand-defi.html</link>
+        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2014/12/01/occigen-grand-defi.html</guid>
         
         
       </item>

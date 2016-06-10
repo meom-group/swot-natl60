@@ -7,15 +7,28 @@ layout: default
     <section class="wrapper style1">
         <div class="container">
         	<div id="content">
-                    <h2>Ocean Big Data</h2>
-                    <h3> <em> Dealing with biger and biger data</em> </h3>
+        		<div class="row">
+					<section class="12u">
+						<div class="box post">
+							<div class="image left">
+								
+							</div>
+								<div class="inner">
+                    				<h2>Ocean Big Data</h2>
+                    				<p> In this context of high resolution oceanic simulations, the amount of data tends to be massive. In particular, the North Atlantic basin is discretized by more than than 5 billions of grid points. Hence, a single day of simulation produces more than 45Go of data. So we have to store more than 1To of data every month ...</p>
+                    				<p> We are therefore concerned by the same issues than the "Big Data" community. That implies considering new tools to handle outputs of our simulations and modifying our way of sharing them. That is why we are considering an <a href="{{ site.baseurl }}/access-data"> open-data strategy</a> in order to have a wider scientific exploitation of the data we produced.</p>
+                    				<p> Simultaneously, a reflexion about new tools is currently conducted : see <a href="http://oocgcm.readthedocs.io/en/latest/"> out of core analysis of general circulation models</a> project.</p>
+                    			</div>
+                    	</div>
+                    </section>
+                  </div>
             </div>
         </div>
     </section>
 
    
 
-   {% for topic in site.data.obigdata %}
+ <!--  {% for topic in site.data.obigdata %}
 	<section class="wrapper style1">
 		<div class="container">
 			<div id="content">
@@ -36,4 +49,4 @@ layout: default
 			</div>
 		</div>
 	</section>	
-	{% endfor %}
+	{% endfor %} -->
