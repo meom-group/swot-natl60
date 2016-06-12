@@ -1,9 +1,8 @@
-- name: 
+- name:
   pic: north-atlantic.jpeg
-  description: "NATL60 is an innovative experiment aiming at modelling the ocean down to kilometric resolution as realistically as possible. The model grid (vertical and horizontal) and model parameters have been chosen in order to explicitely simulates ocean submesoscale in the Naorth Atlantic."
+  description: "NATL60 is an innovative experiment aiming at modelling the ocean down to kilometric resolution as realistically as possible. The model grid (vertical and horizontal) and model parameters have been chosen in order to explicitely simulate ocean submesoscales in the North Atlantic."
 
-- name: 
+- name:
   pic: grid-Brest.jpeg
-  description: "The domain is bounded in the South by the 26.5° parallel, and by roughly the arctic polar circle in the North. The resolution is of 1/60° at the equator. In ORCA configuration, the size of the mesh is reduced with the cosinus of latitude, therefore horizontal resolution varies from 1600m at the southern boundary to 900m the nothermost part of the domain.
-                   In order to correctly represent internal waves, it is imperative to have a high vertical resolution of 300 levels. At the surface the resolution is of 1m and of 50m in the deepest regions."
-
+  description: "The domain is bounded in the South by the 26.5° parallel, and by the Polar circle at the northern boundary. The nominal horizontal resolution is 1/60° (at the equator). In ORCA configuration, the size of the mesh is reduced with the cosinus of latitude, therefore the horizontal resolution varies from 1600m at the southern boundary to 900m the nothermost part of the domain.
+                   In order to guarantee an adequate representation of surface intensified balanced, submesoscale dynamics and internal waves dynamics, NATL60 model configuration uses a high vertical resolution of 300 vertical levels. At the surface the vertical resolution is 1m and 50m in the deepest regions."
