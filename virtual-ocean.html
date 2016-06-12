@@ -2,7 +2,7 @@
 title: Arcana
 layout: default
 ---
-			
+
 <!-- Main -->
     <section class="wrapper style1">
         <div class="container">
@@ -11,11 +11,11 @@ layout: default
 					<section class="12u">
 						<div class="box post">
 							<div class="image left">
-								
+
 							</div>
 								<div class="inner">
 									<h2>NATL60 : a virtual North Atlantic ocean</h2>
-                    				<p>NATL60 model configuration is designed in order to explicitely simulate the scales that will be observed by SWOT altimetric mission</p>
+                    				<p>NATL60 model configuration is designed in order to explicitely simulate the scales of motions that will be observed by SWOT altimetric mission. </p>
                     			</div>
 
                     	</div>
@@ -24,7 +24,7 @@ layout: default
         </div>
     </section>
 
-   
+
 
    {% for topic in site.data.vocean %}
 	<section class="wrapper style1">
@@ -46,7 +46,7 @@ layout: default
 				</div>
 			</div>
 		</div>
-	</section>	
+	</section>
 	{% endfor %}
 
 	<section class="wrapper style1">
@@ -59,8 +59,8 @@ layout: default
 								<img src="{{ site.baseurl }}/assets/images/mercator-ocean.png" alt="">
 							</div>
 								<div class="inner">
-									
-									The initial and open boundary conditions are taken from the GLORYS2-V3 reanalysis provided by <a href="http://www.mercator-ocean.fr/"> Mercator Océan </a>. At the ocean-atmosphere interface the Drakkar DFS5.2 based on ERA-interim data has been used.
+
+									The initial and open boundary conditions are built from the GLORYS2-V3 reanalysis provided by <a href="http://www.mercator-ocean.fr/"> Mercator Ocean </a>. Boundary conditions at the ocean-atmosphere interface use the Drakkar Forcing Set DFS5.2, based on ERA-interim reanalysis.
 								</div>
 						</div>
 
@@ -68,7 +68,4 @@ layout: default
 				</div>
 			</div>
 		</div>
-	</section>	
-
-
- 	
+	</section>
