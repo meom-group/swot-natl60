@@ -55,32 +55,49 @@
 
 
 
-	<!-- Main -->
-    <section class="wrapper style1">
-        <div class="container">
-        	<div id="content">
-        		<div class="row">
-					<section class="12u">
-						<div class="box post">
-							<div class="image left">
+	<!-- Banner -->
+	<section id="banner">
+		<header>
+			<h2>NATL60: <em>A simulation provided by the <a href="http://lgge.osug.fr/meom/">MEOM </a> team and pushing forward the limits of oceanographic modelling</em></h2>
+		</header>
+	</section>
 
-							</div>
-								<div class="inner">
-                    				<h2>Ocean Big Data</h2>
-                    				<p> In this context of high resolution oceanic simulations, the amount of data tends to be massive. In particular, the North Atlantic basin is discretized by more than than 5 billions of grid points. Hence, a single day of simulation produces more than 45Go of data. So we have to store more than 1To for every month of simulation...</p>
-                    				<p> We are here entering the realm of "ocean big data". Tackling this challenge require substancial evolution of our diagnostic software used to analyse model output. It also modifies how we share model data. Because analyzing as large a dataset is beyond the capacity of a single research group, we have decided to adopt an an <a href="/swot-natl60/access-data"> open-data dissemination strategy</a> in order to allow for a wider scientific exploitation of the data we produce.</p>
-                    				<p> In parrallel, a reflexion about new tools is currently conducted : see <a href="http://oocgcm.readthedocs.io/en/latest/"> out of core analysis of general circulation models</a> project.</p>
-                    			</div>
-                    	</div>
-                    </section>
-                  </div>
-            </div>
-        </div>
-    </section>
+<!-- Highlights -->
+	<section class="wrapper style1">
+		<div class="container">
+			<div class="row double">
+				<section class="4u">
+					<div class="box highlight">
+						<a href="/swot-natl60/virtual-ocean" class="icon major fa-anchor"></a>
+						<h3><a href="/swot-natl60/virtual-ocean">A virtual ocean</a></h3>
+						<p>Description of the NATL60. Modelling submesoscale in the ocean.</p>
+					</div>
+				</section>
+				<section class="4u">
+					<div class="box highlight">
+						<a href="/swot-natl60/prep-swot" class="icon major fa-rocket"></a>
+						<h3><a href="/swot-natl60/prep-swot">Preparing SWOT mission</a></h3>
+						<p>How modelling helps in developping the launching of a satellite mission</p>
+					</div>
+				</section>
+				<section class="4u">
+					<div class="box highlight">
+						<a href="/swot-natl60/access-data" class="icon major fa-download"></a>
+						<h3><a href="/swot-natl60/access-data">Accessing NATL60 data</a></h3>
+						<p>Details of the simulation: variables, periods, storing ... Ad how to access them.</p>
+					</div>
+				</section>
+			</div>
+		</div>
+	</section>
 
+<!-- News -->
+	<section id="sbanner">
+		<header>
+			<h2>Recent News</h2>
+		</header>
+	</section>
 
-
- <!--  
 	<section class="wrapper style1">
 		<div class="container">
 			<div id="content">
@@ -88,20 +105,44 @@
 					<section class="12u">
 						<div class="box post">
 							<div class="image left">
-								<img src="/swot-natl60/assets/images/north-atlantic.jpeg" alt="">
+								<img src="" alt="">
 							</div>
-								<div class="inner">
-									<h3>A virtual ocean</h3>
-									NATL60 is a first experiment aiming at modeling the ocean at a kilometric resolution in a realistic context (opposed to idealized) for a domain that encompasses a whole basin (North Atlantic)
-								</div>
-						</div>
+							<div class="inner">
 
+							
+								<div class="list-item">
+    								<h3 class="list-post-title">
+      									<a href="/swot-natl60/2016/06/06/lauching-of-website.html">Website Launching</a> - <em> <time>06 Jun 2016</time> </em>
+    								</h3>
+    						
+								<div class="list-item">
+    								<h3 class="list-post-title">
+      									<a href="/swot-natl60/2016/04/20/production-second-run.html">Second run</a> - <em> <time>20 Apr 2016</time> </em>
+    								</h3>
+    						
+								<div class="list-item">
+    								<h3 class="list-post-title">
+      									<a href="/swot-natl60/2015/03/10/first-run-available.html">Output of the first run available</a> - <em> <time>10 Mar 2015</time> </em>
+    								</h3>
+    						
+								<div class="list-item">
+    								<h3 class="list-post-title">
+      									<a href="/swot-natl60/2014/12/01/occigen-grand-defi.html">Occigen "Grand Défi"</a> - <em> <time>01 Dec 2014</time> </em>
+    								</h3>
+    						
+    						
+  							</div>
+						</div>
 					</section>
 				</div>
 			</div>
 		</div>
-	</section>
-	 -->
+	</section>	
+
+	
+
+
+
 
 		<!-- Footer -->
 			<div id="footer">
