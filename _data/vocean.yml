@@ -4,5 +4,5 @@
 
 - name:
   pic: grid-Brest.jpeg
-  description: "The domain is bounded in the South by the 26.5° parallel, and by the Polar circle at the northern boundary. The nominal horizontal resolution is 1/60° (at the equator). In ORCA configuration, the size of the mesh is reduced with the cosinus of latitude, therefore the horizontal resolution varies from 1600m at the southern boundary to 900m the nothermost part of the domain.
-                   In order to guarantee an adequate representation of surface intensified balanced, submesoscale dynamics and internal waves dynamics, NATL60 model configuration uses a high vertical resolution of 300 vertical levels. At the surface the vertical resolution is 1m and 50m in the deepest regions."
+  description: "The domain is bounded in the South by the 26.5° parallel, and by the Polar circle at the northern boundary. The nominal horizontal resolution is 1/60° (at the equator). In ORCA configuration, the size of the mesh is reduced with the cosinus of latitude, therefore the horizontal resolution varies from 1600m at the southern boundary to 900m at the nothermost part of the domain.
+                   In order to guarantee an adequate representation of surface intensified balanced, submesoscale dynamics and internal waves dynamics, NATL60 model configuration uses a high vertical resolution of 300 vertical levels. At the surface, the vertical resolution is 1m and 50m in the deepest regions."
