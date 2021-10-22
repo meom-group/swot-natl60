@@ -5,15 +5,35 @@
     <description>Description of NATL60 simulations</description>
     <link>http://meom-group.github.io/swot-natl60/</link>
     <atom:link href="http://meom-group.github.io/swot-natl60/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Jun 2016 13:20:04 -0700</pubDate>
-    <lastBuildDate>Sun, 12 Jun 2016 13:20:04 -0700</lastBuildDate>
+    <pubDate>Thu, 17 Nov 2016 15:32:06 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Nov 2016 15:32:06 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Outputs of NATL60 new run</title>
+        <description>&lt;p&gt;Here are some videos of surface vorticity, current intensity and vertical velocities at 100m depth for the newest NATL60 simulation&lt;/p&gt;
+
+&lt;p&gt;Surface vorticity :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://servdap.legi.grenoble-inp.fr/meom/NATL60-MOVIES/CJM165/NATL60QNE-CJM165_y2012-2013.curloverf.mov&quot;&gt;North-East quarter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://servdap.legi.grenoble-inp.fr/meom/NATL60-MOVIES/CJM165/NATL60QNW-CJM165_y2012-2013.curloverf.mov&quot;&gt;North-West quarter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://servdap.legi.grenoble-inp.fr/meom/NATL60-MOVIES/CJM165/NATL60QSW-CJM165_y2012-2013.curloverf.mov&quot;&gt;South-West quarter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://servdap.legi.grenoble-inp.fr/meom/NATL60-MOVIES/CJM165/NATL60QSE-CJM165_y2012-2013.curloverf.mov&quot;&gt;South-East quarter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 10 Nov 2016 00:00:00 +0100</pubDate>
+        <link>http://meom-group.github.io/swot-natl60/2016/11/10/videos-NATL60-CJM165.html</link>
+        <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2016/11/10/videos-NATL60-CJM165.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Website Launching</title>
         <description>&lt;p&gt;This is a website where you will find informations on the simulations NATL60 produced by the MEOM team of the LGGE lab. &lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 06 Jun 2016 00:00:00 +0200</pubDate>
         <link>http://meom-group.github.io/swot-natl60/2016/06/06/lauching-of-website.html</link>
         <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2016/06/06/lauching-of-website.html</guid>
         
@@ -24,7 +44,7 @@
         <title>Second run</title>
         <description>&lt;p&gt;The production of the second run is beginning on Curie. &lt;/p&gt;
 </description>
-        <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
         <link>http://meom-group.github.io/swot-natl60/2016/04/20/production-second-run.html</link>
         <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2016/04/20/production-second-run.html</guid>
         
@@ -35,7 +55,7 @@
         <title>Output of the first run available</title>
         <description>&lt;p&gt;Now we can have a look at the output. &lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Mar 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 10 Mar 2015 00:00:00 +0100</pubDate>
         <link>http://meom-group.github.io/swot-natl60/2015/03/10/first-run-available.html</link>
         <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2015/03/10/first-run-available.html</guid>
         
@@ -46,7 +66,7 @@
         <title>Occigen &quot;Grand Défi&quot;</title>
         <description>&lt;p&gt;Beginning of the production of the first NATL60 run&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Dec 2014 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 01 Dec 2014 00:00:00 +0100</pubDate>
         <link>http://meom-group.github.io/swot-natl60/2014/12/01/occigen-grand-defi.html</link>
         <guid isPermaLink="true">http://meom-group.github.io/swot-natl60/2014/12/01/occigen-grand-defi.html</guid>
         
